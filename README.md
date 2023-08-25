@@ -14,23 +14,5 @@ This repository contains my solutions and explanations for various LeetCode prac
   product_id is the primary key (column with unique values) for this table.
   low_fats is an ENUM (category) of type ('Y', 'N') where 'Y' means this product is low fat and 'N' means it is not.
   recyclable is an ENUM (category) of types ('Y', 'N') where 'Y' means this product is recyclable and 'N' means it is not.
- 
+  Write a solution to find the ids of products that are both low fat and recyclable.
 
-Write a solution to find the ids of products that are both low fat and recyclable.
-- ...
-
-## Folder Structure 📂
-
-- **/questionX/**
-  - `solution.py`: Python code containing my solution to the question.
-  - `explanation.md`: Detailed explanation of the approach and algorithm used.
-  - `test_cases.py`: Test cases and expected outputs for the solution.
-  - (Optional) `time_complexity.md`: Analysis of the time complexity of the solution.
-  - (Optional) `space_complexity.md`: Analysis of the space complexity of the solution.
-
-## Usage 🚀
-
-You can browse the solutions by navigating to the respective question directories. Each directory contains a Python file with the solution and a markdown file with explanations. The `test_cases.py` file can be used to validate the solution against provided test cases.
-
-```bash
-python questionX/solution.py
