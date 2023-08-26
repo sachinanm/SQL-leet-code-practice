@@ -4,6 +4,8 @@ This repository contains my solutions and explanations for various LeetCode prac
 
 ## Table of Contents 📜
 
+## SELECT BASIC
+
  -[Question 1](./Question1/):
   A country is big if:
   it has an area of at least three million (i.e., 3000000 km2), or
@@ -22,5 +24,16 @@ This repository contains my solutions and explanations for various LeetCode prac
   Each row of this table indicates the id of a customer, their name, and the id of the customer who referred them.
   Find the names of the customer that are not referred by the customer with id = 2.
   Return the result table in any order.The result format is in the following example.
+
+  -[Question 4](./Question4/):
+  Article Views I  
+  There is no primary key (column with unique values) for this table, the table may have duplicate rows.
+  Each row of this table indicates that some viewer viewed an article (written by some author) on some date. 
+  Note that equal author_id and viewer_id indicate the same person.
+  Write a solution to find all the authors that viewed at least one of their own articles.
+  Return the result table sorted by id in ascending order.
+  The result format is in the following example.
+ 
+  
   
 
