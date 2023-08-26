@@ -34,7 +34,7 @@ This repository contains my solutions and explanations for various LeetCode prac
    Return the result table sorted by id in ascending order.
    The result format is in the following example.
 
-  -[Question 4](./Question5/):
+  -[Question 5](./Question5/):
   Invalid Tweets  
    tweet_id is the primary key (column with unique values) for this table.
    This table contains all the tweets in a social media app.
