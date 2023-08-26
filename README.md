@@ -33,7 +33,14 @@ This repository contains my solutions and explanations for various LeetCode prac
   Write a solution to find all the authors that viewed at least one of their own articles.
   Return the result table sorted by id in ascending order.
   The result format is in the following example.
- 
+
+  -[Question 4](./Question5/):
+  Invalid Tweets  
+  tweet_id is the primary key (column with unique values) for this table.
+  This table contains all the tweets in a social media app.
+  Write a solution to find the IDs of the invalid tweets. 
+  The tweet is invalid if the number of characters used in the content of the tweet is strictly greater than 15.
+  Return the result table in any order.The result format is in the following example.
   
   
 
