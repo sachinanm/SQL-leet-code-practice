@@ -16,3 +16,11 @@ This repository contains my solutions and explanations for various LeetCode prac
   recyclable is an ENUM (category) of types ('Y', 'N') where 'Y' means this product is recyclable and 'N' means it is not.
   Write a solution to find the ids of products that are both low fat and recyclable.
 
+ -[Question 3](./Question3/):
+  Find Customer Referee
+  In SQL, id is the primary key column for this table.
+  Each row of this table indicates the id of a customer, their name, and the id of the customer who referred them.
+  Find the names of the customer that are not referred by the customer with id = 2.
+  Return the result table in any order.The result format is in the following example.
+  
+
