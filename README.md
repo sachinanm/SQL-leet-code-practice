@@ -27,7 +27,7 @@ This repository contains my solutions and explanations for various LeetCode prac
    In SQL, id is the primary key column for this table.
    Each row of this table indicates the id of a customer, their name, and the id of the customer who referred them.
    Find the names of the customer that are not referred by the customer with id = 2.
-   Return the result table in any order.The result format is in the following example.
+
 
   -[Question 4](./Question4/):
   Article Views I:
@@ -35,8 +35,7 @@ This repository contains my solutions and explanations for various LeetCode prac
    There is no primary key (column with unique values) for this table, the table may have duplicate rows.
    Each row of this table indicates that some viewer viewed an article (written by some author) on some date. 
    Note that equal author_id and viewer_id indicate the same person.
-   Return the result table sorted by id in ascending order.
-   The result format is in the following example.
+  
 
   -[Question 5](./Question5/):
   Invalid Tweets:
@@ -45,7 +44,7 @@ This repository contains my solutions and explanations for various LeetCode prac
    This table contains all the tweets in a social media app.
    Write a solution to find the IDs of the invalid tweets. 
    The tweet is invalid if the number of characters used in the content of the tweet is strictly greater than 15.
-   Return the result table in any order.The result format is in the following example.
+   
   
   
 
